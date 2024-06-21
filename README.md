@@ -41,12 +41,12 @@ EDA involved exploring the data to answer key questions, such as:
 
 Analyze the data by having some of the consideration as the hypothesis on the basis of which the analysis has been done.  These are some of the following hypothesis.
 
-### HYpothesis
+### Hypothesis
 
 1. More cancelation occurs when prices are higher.
 2. When there is long waiting list, customers are tends to cnacel more frequently.
 3. The majority of customers are coming from offline travel agents to make their reservation.
-4. 
+   
 ### Results/Findings
 
 The analysis results are summarized as follows:
@@ -54,11 +54,20 @@ The analysis results are summarized as follows:
 2. Product Category A is the best-performing category in terms of sales and revenue.
 3. Customer segments with high lifetime value (LTV) should be targeted for marketing efforts.
 
+### Dashboard Creation 
+
+This project uses Power BI to provide interactive visualizations and detailed analysis of hotel reservation cancellations. Key features include:
+
+Cancellation Trends: Monitor daily, weekly, and monthly cancellation patterns.
+Cancellation Reasons: Identify common reasons for cancellations.
+Customer Insights: Analyze customer behavior and demographics.
+Financial Impact: Assess the revenue impact of cancellations.
+
 ### Suggestions 
 
 Based on the analysis, we recommend the following actions should be taken to get rid of the problem which the business is facing:
 - Cancelation rates rise as the price does. In order to prevent cancellations of the reservations, hotel could work on their pricing strategies and try to lower the rates for specific hetels based on locations. 
-   They can also provide some discounts to the consumers.
+- They can also provide some discounts to the consumers.
 - As the ration of the cancellation and not cancellation of the resort hotel is higher in the resort hotel than the city hotels. So the hotels should provide a reasonable discount on the room prices on weekends or on holidays.
 - In the month of January hotels can start canpaigns and marketing with a reasonable amount to increase their revenue as the cancellation is the highest in this month.
 - They can also increase the quality of their hotels and their services mainly in Portugal to reduce the cancellation rate.
