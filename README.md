@@ -1,7 +1,5 @@
 # Hotel Reservation Analysis
 
-### Dashboard Link : [https://app.powerbi.com/groups/me/reports/384d017e-e935-44dc-9e7d-1626c1a36de1/ReportSection](http://localhost:8888/notebooks/Untitled%20Folder%202/Hotel_Project_1.ipynb)
-
 ## Business Problem
 
 In recent years, City Hotels and Resort Hotels have seen high cancellation rate. Each hotel is now dealing with a number of issues as a result including fewer revenues and less than ideal hotel room use. Consequently, lowering cancellation rate is both hotels primary goal in order to increase their effiency in generating revenue, and for us to offer through business advice to adress this problem.
